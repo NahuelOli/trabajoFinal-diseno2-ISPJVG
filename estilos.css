@@ -187,8 +187,10 @@ section article h2 {
 }
 
 article p {
-  margin: 15px;
-  font-size: 25px;
+  margin: 40px;
+  font-size: 18px;
+	line-height: 30px; 
+	text-align: justify;
 }
 
 video {
@@ -272,7 +274,7 @@ section h2 {
   text-align: center;
   margin: auto;
   margin-top: 35px;
-  font-size: 26px;
+  font-size: 20px;
 }
 form label{
   font-size: 20px;
